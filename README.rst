@@ -113,7 +113,7 @@ It’s nice to have shortcut commands for installing tox and coverage, building 
 .. _LICENSE: LICENSE
 .. _MANIFEST.in: MANIFEST.in
 .. _setup.py: setup.py
-.. _.editorcconfig: .editorconfig
+.. _.editorconfig: .editorconfig
 .. _runtests.py: runtests.py
 .. _.coveragerc: .coveragerc
 .. _.travis.yml: .travis.yml
