@@ -8,12 +8,6 @@ This repository should not be copied verbatim.  Instead start building your
 repository from the ground up, using the files here as a guideline.  Remember
 that you can always add more to your repository later.
 
-License
-=======
-
-Note that the ``LICENSE`` file is an example file, not the license for this project.
-
-To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.  The CC0 Public Domain Dedication license is available at <http://creativecommons.org/publicdomain/zero/1.0/>.
 
 Descriptions of the Files
 =========================
@@ -126,3 +120,11 @@ It’s nice to have shortcut commands for installing tox and coverage, building 
 .. _.gitignore: .gitignore
 .. _CONTRIBUTING: CONTRIBUTING.rst
 .. _Makefile: Makefile
+
+
+License
+=======
+
+Note that the ``LICENSE`` file is an example file, not the license for this project.
+
+To the extent possible under law, the author has dedicated all copyright and related and neighboring rights to this software to the public domain worldwide. This software is distributed without any warranty.  The CC0 Public Domain Dedication license is available at <http://creativecommons.org/publicdomain/zero/1.0/>.
