@@ -100,7 +100,11 @@ The `CONTRIBUTING`_ file should explain to new contributors the steps they shoul
 Sphinx Documentation
 ~~~~~~~~~~~~~~~~~~~~
 
-Incomplete documentation is usually better than missing documentation. Use Sphinx to create a skeleton documentation directory so it will be easy to add documentation later.
+Incomplete documentation is usually better than missing documentation. Use Sphinx to create a skeleton documentation directory so it will be easy to add documentation later.  You can host the documentation for free on ReadTheDocs.org.
+
+To generate Sphinx documentation::
+
+    sphinx-quickstart
 
 `Makefile`_
 ~~~~~~~~~~~
